@@ -72,5 +72,6 @@ Teaching
   
 Service and leadership
 ======
-* STEM Coach, Goodnight Scholar Program, 2023 - 2026
+* Mentor, Goodnight Scholars Program, 2025 - 2026
+* STEM Coach, Goodnight Scholars Program, 2023 - 2026
 * Statistics Analyst, North Carolina State Baseball Team, 2023 - 2026
