@@ -23,7 +23,7 @@ repository               : "johnmiller14/johnmiller14.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.JPG"
   name             : "John M. Miller"
   pronouns         : # example: "she/her"  
   bio              : "NSF GRFP Recipient and Biomathematics PhD student at Florida State University"
