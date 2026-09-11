@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 Education
-______
+------
 * Ph.D in Biomathematics, Florida State University, 2031 (expected)
 * B.S. in Applied Mathematics, North Carolina State University, 2026
 * B.S. in Biological Scinces: Molecular, Cellular, and Developmental Biology, North Carolina State University, 2026
 
 Awards
-______
+------
 * NSF Graduate Research Fellowship, 2026
 * North Carolina State College of Sciences Outstanding Scholarship Award, 2026
 * Richard L. Blanton Outstanding Capstone Award, 2026
 * Goodnight Scholarship, 2022
 
 Work experience
-______
+------
 * Aug. 2024 - May 2026: Research Assistant
   * NSF Research Training Grant UQ4Life at North Carolina State University
   * Led a collaboration of mathematicians and statisticians to study how pulmonary hypertension effects the shape of the lung in mice
@@ -71,7 +71,7 @@ Teaching
 -->
   
 Service and leadership
-______
+------
 * Mentor, Goodnight Scholars Program, 2025 - 2026
 * STEM Coach, Goodnight Scholars Program, 2023 - 2026
 * Statistics Analyst, North Carolina State Baseball Team, 2023 - 2026
